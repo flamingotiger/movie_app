@@ -35,7 +35,7 @@ function MoviePoster({poster, alt}){
 }
 function MovieGenre({genre}){
   return (
-    <span className="Movie__Genres">{genre}</span>
+    <span className="Movie__Genre">{genre}</span>
   )
 }
 Movie.propTypes = {
