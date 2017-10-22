@@ -7,9 +7,9 @@ react 개발 공부를 목적으로 inflean 강의를 통해 클론 프로젝트
 ## 사용 Skills
 
 1. es6적용   
-()=>{}
-import export
-class
+ -()=>{}
+ -import export
+ -class
 JSX   
 2. react적용  
 react-react-app으로 프로젝트 생성
