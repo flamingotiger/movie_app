@@ -5,6 +5,7 @@ react 개발 공부를 목적으로 inflean 강의를 통해 클론 프로젝트
 
 
 ## 사용 Skills
+1. tdafa
 - es6적용   
    ()=>{}
    import export
