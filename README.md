@@ -1,10 +1,10 @@
-# react study!!
+# react study
 영화 오픈api과 react를 이용한 웹앱.
 
 react 개발 공부를 목적으로 inflean 강의를 통해 클론 프로젝트 제작하였습니다. 
 
 
-## [사용 Skills]
+## 사용 Skills
 1.es6적용   
   - ()=>{}
   - import export
